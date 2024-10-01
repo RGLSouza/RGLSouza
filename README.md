@@ -1,4 +1,4 @@
-👋 Olá! Sou Rafael Souza e estou em busca da minha primeira experiencia profissional.
+## 👋 Olá! Sou Rafael Souza e estou em busca da minha primeira experiencia profissional.
 
 - 👀 Sempre fui interessado a aprender sobre programação e poder trabalhar na área 
 - 🌱 Estou atualmente estudando HTML, CSS, Javascript, React.js e JAVA
