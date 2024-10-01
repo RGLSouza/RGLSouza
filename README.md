@@ -1,8 +1,9 @@
 ## 👋 Olá! Sou Rafael Souza e estou em busca da minha primeira experiencia profissional.
 
-- 👀 Sempre fui interessado a aprender sobre programação e poder trabalhar na área 
-- 🌱 Estou atualmente estudando HTML, CSS, Javascript, React.js e JAVA
-- 💞️ Estou procurando trabalhar em pequenos projetos para que eu consiga me desenvolver como um programador
+-  Sempre fui interessado a aprender sobre programação e poder trabalhar na área 
+-  Estou atualmente estudando HTML, CSS, Javascript, React.js e JAVA
+-  Procuro trabalhar em pequenos projetos para que eu consiga me desenvolver como um programador
+-  Fazendo projetos pessoais para acrentar no meu conhecimento
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
