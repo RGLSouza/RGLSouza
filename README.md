@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Rafael from Brazil
-- 👀 I’m interested in learn more about coding in general 
-- 🌱 I’m currently learning Phyton, C, HTML, JAVA
-- 💞️ I’m looking to collaborate on small projects for make me learning
-- 📫 How to reach me? https://www.linkedin.com/in/rafael-souza-9b3126248
+👋 Olá! Sou Rafael Souza e estou em busca da minha primeira experiencia profissional.
+
+- 👀 Sempre fui interessado a aprender sobre programação e poder trabalhar na área 
+- 🌱 Estou atualmente estudando HTML, CSS, Javascript, React.js e JAVA
+- 💞️ Estou procurando trabalhar em pequenos projetos para que eu consiga me desenvolver como um programador
+
 
 <!---
 RGLSouza/RGLSouza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
